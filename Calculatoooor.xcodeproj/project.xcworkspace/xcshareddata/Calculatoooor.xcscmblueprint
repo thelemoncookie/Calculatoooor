@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2DA88232782A92773E03C5213D846CAC99E13301",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2DA88232782A92773E03C5213D846CAC99E13301" : 0,
+    "37F45ECE1A664FEA2DC66EE9C0D0DC490D4ED27C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FD9CAAAA-C768-4F2A-B6D6-E40C49B07DE6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2DA88232782A92773E03C5213D846CAC99E13301" : "Calculatoooor.xcodeproj\/",
+    "37F45ECE1A664FEA2DC66EE9C0D0DC490D4ED27C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thelemoncookie\/Calculatoooor.xcodeproj.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2DA88232782A92773E03C5213D846CAC99E13301"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thelemoncookie\/Calculatoooor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37F45ECE1A664FEA2DC66EE9C0D0DC490D4ED27C"
+    }
+  ]
+}
